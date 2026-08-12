@@ -13,11 +13,11 @@ style:         "Clear ideas, polished interfaces, practical execution"
 
 ---
 
-### Featured Projects
+### Current Project
 
 #### mandy-interactive-portfolio
 
-> An interactive hand-drawn 3D personal portfolio built with Next.js and Three.js.
+> Private/in-progress interactive hand-drawn 3D personal portfolio built with Next.js and Three.js.
 
 A personal portfolio experience designed to feel more like an interactive product than a static resume. It combines visual storytelling, 3D presentation, and a modern frontend stack to make personal projects easier to explore and remember.
 
