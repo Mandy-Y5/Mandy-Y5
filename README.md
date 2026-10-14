@@ -13,7 +13,15 @@ style:         "Clear ideas, polished interfaces, practical execution"
 
 ---
 
-### Current Project
+### Current Projects
+
+#### [ShadeSense · 译色](https://shadesense-mandy.andrepolaron325001.chatgpt.site)
+
+> An accessible makeup prototype that translates shade differences for people with color vision deficiencies or low vision.
+
+A team beauty-tech project with lipstick comparison, blush preview, foundation matching, and large-text and speech options. The public demo runs in the browser with 40 official US Maybelline shade records; packaging recognition is not enabled in this static demo. Digital swatches are not physical color measurements.
+
+`React` · `JavaScript` · `MediaPipe` · `Color Science` · `Accessibility`
 
 #### mandy-interactive-portfolio
 
