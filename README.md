@@ -1,67 +1,39 @@
-### Hi, I'm Mandy
+<div align="center">
 
-I build interactive web experiences and product-focused software, with a growing focus on 3D interfaces, full-stack development, and AI-assisted creation.
+# Mengzhe Yang · Mandy
 
-```yaml
-name:          "Mengzhe Yang"
-email:         "my3293@nyu.edu"
-focus:         ["Interactive Web", "3D Portfolio", "Full-stack Products"]
-currently:     ["mandy-interactive-portfolio"]
-exploring:     ["Next.js", "Three.js", "TypeScript", "AI-assisted Product Design"]
-style:         "Clear ideas, polished interfaces, practical execution"
-```
+**Accessible products. Interactive experiences.**
 
----
+NYU Shanghai · Web Development · Creative Coding
 
-### Current Projects
+[Email](mailto:my3293@nyu.edu) · [Featured Project](https://github.com/Geemir/ShadeSense) · [My Contributions](https://github.com/Geemir/ShadeSense/commits?author=Mandy-Y5)
 
-#### [ShadeSense · 译色](https://shadesense-mandy.andrepolaron325001.chatgpt.site)
-
-> An accessible makeup prototype that translates shade differences for people with color vision deficiencies or low vision.
-
-A team beauty-tech project with lipstick comparison, blush preview, foundation matching, and large-text and speech options. The public demo runs in the browser with 40 official US Maybelline shade records; packaging recognition is not enabled in this static demo. Digital swatches are not physical color measurements.
-
-`React` · `JavaScript` · `MediaPipe` · `Color Science` · `Accessibility`
-
-#### mandy-interactive-portfolio
-
-> Private/in-progress interactive hand-drawn 3D personal portfolio built with Next.js and Three.js.
-
-A personal portfolio experience designed to feel more like an interactive product than a static resume. It combines visual storytelling, 3D presentation, and a modern frontend stack to make personal projects easier to explore and remember.
-
-`TypeScript` · `Next.js` · `Three.js` · `Frontend Engineering` · `Creative Coding`
+</div>
 
 ---
 
-### What I Like Building
+I build web experiences that help people understand information and use technology more comfortably. My interests span accessible interfaces, full-stack products, and interactive 3D experiences.
 
-- Interactive websites that make information feel clear and memorable
-- Portfolio and product experiences with strong visual identity
-- Full-stack apps that turn rough ideas into usable tools
-- AI-assisted workflows for faster prototyping, design, and development
+### Featured work
 
----
+#### [ShadeSense · 译色](https://github.com/Geemir/ShadeSense)
 
-### Tech Stack
+A team project exploring accessible makeup tools for people with color vision deficiencies or low vision, including shade comparison, virtual makeup previews, large text, and speech options.
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS  
-**Creative Web:** Three.js, interactive UI, animation, responsive design  
-**Product Tools:** Git, GitHub, Vercel, Figma, AI coding assistants  
-**Learning More:** Backend systems, databases, deployment, AI product engineering
+My contributions include color-vision onboarding, interface improvements, and refining the blush preview through iterative fixes and team review.
 
----
+[Explore the code →](https://github.com/Geemir/ShadeSense) · [Browse my commits →](https://github.com/Geemir/ShadeSense/commits?author=Mandy-Y5)
 
-### GitHub Snapshot
+### Also exploring
 
-![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandy-Y5&show_icons=true&hide_border=true&theme=default)
+An interactive, hand-drawn personal portfolio using **Next.js, TypeScript, and Three.js** — currently a work in progress.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy-Y5&layout=compact&hide_border=true)
+### Tools I work with
+
+**Web** · React, Next.js, TypeScript, JavaScript, HTML & CSS  
+**Interaction** · Three.js, animation, responsive interfaces  
+**Workflow** · Git, GitHub, Figma, Vercel
 
 ---
 
-### Connect
-
-- Email: [my3293@nyu.edu](mailto:my3293@nyu.edu)
-- GitHub: [Mandy-Y5](https://github.com/Mandy-Y5)
-
-Let's build things that are useful, thoughtful, and easy to understand.
+<sub>Interested in accessible interfaces and thoughtful web experiences? [Get in touch.](mailto:my3293@nyu.edu)</sub>
